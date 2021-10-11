@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# oi, me chamo Cauan Santos  
+## sou estudante de Engenharia de Computação na Universidade Federal de Sergipe 
 <!--
 **CauanS29/CauanS29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
