@@ -16,8 +16,10 @@
   <img align="center" alt="Cauan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cauan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Cauan-Haskell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
-  <img align="center" alt="Cauan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-
+  <img align="center" alt="Cauan-Java" height="35" width="45" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
+          
+           
 
 </div>
   
